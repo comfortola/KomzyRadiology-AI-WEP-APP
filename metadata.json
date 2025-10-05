@@ -1,0 +1,5 @@
+{
+  "name": "AI Medical Assistant",
+  "description": "An intelligent symptom checker and medical information assistant designed to provide preliminary insights for patients, students, and medical professionals. This is not a substitute for professional medical advice.",
+  "requestFramePermissions": []
+}
